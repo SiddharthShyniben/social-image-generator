@@ -16,3 +16,7 @@ and fill in the following params in the query string:
 - `animate`: whether to animate the text
 
 Example URL: <https://siddharthshyniben.github.io/social-image-generator/?tags=foobar,%20baz,%20lol&text=%3Cb%3EBold%3C/b%3E%20text&caption=foo%20bar%20baz%20blog&animate=yes&img=https://angular.io/assets/images/logos/angular/angular.svg>
+
+## License
+
+[MIT](./LICENSE)
